@@ -1,0 +1,58 @@
+body { 
+    background: #313131;
+    color: #f3f3f3;
+    font-family: Helvetica, sans-serif;
+}
+
+#center {
+    margin: auto;
+    text-align: center;
+    font-size: 60px;
+}
+
+.btny {
+    margin-top: 60px;
+}
+
+button {
+     font-size: 20px;
+}
+
+#minus {
+    padding: 15px 30px;
+    background: none;
+    border: #e00000 2px solid;
+    color: white;
+    transition: all .5s;
+}
+
+#minus:hover {
+    background: #e00000;
+    border-radius: 7px;
+}
+
+#reset {
+    padding: 15px 30px;
+    background: none;
+    border: #2173ed 2px solid;
+    color: white;
+    transition: all .5s;
+}
+
+#reset:hover {
+    background: #2173ed;
+    border-radius: 7px;
+}
+
+#plus {
+    padding: 15px 30px;
+    background: none;
+    border: #21ed28 2px solid;
+    color: white;
+    transition: all .5s;
+}
+
+#plus:hover {
+    background: #21ed28;
+    border-radius: 7px;
+}
