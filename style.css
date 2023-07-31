@@ -29,6 +29,7 @@ button {
 #minus:hover {
     background: #e00000;
     border-radius: 7px;
+    transform: scale(0.9);
 }
 
 #reset {
@@ -42,6 +43,7 @@ button {
 #reset:hover {
     background: #2173ed;
     border-radius: 7px;
+    transform: scale(0.9);
 }
 
 #plus {
@@ -55,4 +57,61 @@ button {
 #plus:hover {
     background: #21ed28;
     border-radius: 7px;
+    transform: scale(0.9);
+}
+
+#duzo {
+    padding: 15px 30px;
+    background: none;
+    border: #b103fc 2px solid;
+    color: white;
+    transition: all .5s;
+}
+
+#duzo:hover {
+    background: #b103fc;
+    border-radius: 7px;
+    transform: scale(0.9);
+}
+
+#sto {
+    padding: 15px 30px;
+    background: none;
+    border: #1e9e58 2px solid;
+    color: white;
+    transition: all .5s;
+}
+
+#sto:hover {
+    background: #1e9e58;
+    border-radius: 7px;
+    transform: scale(0.9);
+}
+
+#msto {
+    padding: 15px 30px;
+    background: none;
+    border: #963333 2px solid;
+    color: white;
+    transition: all .5s;
+}
+
+#msto:hover {
+    background: #963333;
+    border-radius: 7px;
+    transform: scale(0.9);
+}
+
+#malo {
+    padding: 15px 30px;
+    background: none;
+    border: #ba5b16 2px solid;
+    color: white;
+    transition: all .5s;
+}
+
+#malo:hover {
+    background: #ba5b16;
+    border-radius: 7px;
+    transform: scale(0.9);
 }
